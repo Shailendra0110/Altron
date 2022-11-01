@@ -1,0 +1,16 @@
+aiohttp
+pyrogram==1.4.16
+requests
+dnspython
+tgcrypto
+asyncio
+python-dotenv
+APScheduler==3.7.0
+ptable
+prettytable
+yourls
+humanize
+wget==3.2
+urllib3
+tracemoepy
+textblob
